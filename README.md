@@ -1,10 +1,9 @@
 # consciencedub.github.io
 I first jumped into website design and development when I built mountainbikepittsburgh.com in 2004. I used Dreamweaver and Fireworks to make it happen. 
 ## I am a creative director with these skills:
-* Graphic Design
-* Human Centered Design
-* Art Direction
 * Visual design
+* User Experience Design
+* Human Centered Design
 
 I went deep into product design whil launching the SaaS app [Forever](http://Forever.com), a place to store your memories forever.
 I'm no a digiatl creative director creating fundraising campaigns for non-profits.
